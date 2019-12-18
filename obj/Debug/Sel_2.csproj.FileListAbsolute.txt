@@ -1,0 +1,13 @@
+C:\учёба\epam\C#\Sel_2\bin\Debug\Sel_2.dll
+C:\учёба\epam\C#\Sel_2\bin\Debug\Sel_2.pdb
+C:\учёба\epam\C#\Sel_2\bin\Debug\nunit.framework.dll
+C:\учёба\epam\C#\Sel_2\bin\Debug\nunit.framework.xml
+C:\учёба\epam\C#\Sel_2\bin\Debug\WebDriver.pdb
+C:\учёба\epam\C#\Sel_2\bin\Debug\WebDriver.xml
+C:\учёба\epam\C#\Sel_2\obj\Debug\Sel_2.dll
+C:\учёба\epam\C#\Sel_2\obj\Debug\Sel_2.pdb
+C:\учёба\epam\C#\Sel_2\bin\Debug\WebDriver.Support.pdb
+C:\учёба\epam\C#\Sel_2\bin\Debug\WebDriver.Support.xml
+C:\учёба\epam\C#\Sel_2\obj\Debug\Sel_2.csprojAssemblyReference.cache
+C:\учёба\epam\C#\Sel_2\obj\Debug\Sel_2.csproj.CoreCompileInputs.cache
+C:\учёба\epam\C#\Sel_2\obj\Debug\Sel_2.csproj.CopyComplete
